@@ -1,3 +1,2 @@
-# test-2  haii
-# Alamakk
-# kocakkk
+hello world
+hai olip
